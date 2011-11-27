@@ -6,7 +6,7 @@
 
 Name:    bindex
 Version: 2.2
-Release: 3.svn96.2
+Release: 3.svn96.4
 Summary: Bundle Manifest Header Mapper
 
 Group:   Development/Java 
