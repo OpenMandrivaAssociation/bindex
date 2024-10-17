@@ -11,7 +11,7 @@ Summary: Bundle Manifest Header Mapper
 
 Group:   Development/Java 
 License: ASL 2.0
-URL:     http://www.osgi.org/Repository/BIndex
+URL:     https://www.osgi.org/Repository/BIndex
 
 # The source for this package was pulled from upstream's vcs.  Use the
 # following commands to generate the tarball:
